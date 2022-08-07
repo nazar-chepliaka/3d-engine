@@ -5,4 +5,4 @@
 
 # Див. також
 
-+ https://uk.wikipedia.org/wiki/Метрика_програмного_забезпечення
++ https://uk.wikipedia.org/wiki/Предметно-орієнтоване_проєктування
